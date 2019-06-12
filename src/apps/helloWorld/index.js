@@ -1,9 +1,10 @@
 import React from 'react'
 // import ReactDOM from "react-dom"
+import './styles.scss'
 
 export default function HelloWorld() {
   return (
-    <div className='helloWorld'>Hello World!
+    <div className='helloWorld'>Hello World!!!
     </div>
   )
 }
